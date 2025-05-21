@@ -1,0 +1,315 @@
+--- From file: cluster_0_id_broken_error.txt ---
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 188978561024, my id = 1, error =
+Connection broken for id 3, my id = 1, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 2, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 188978561024, my id = 3, error =
+Connection broken for id 1, my id = 3, error =
+
+--- From file: ._cluster_0_id_broken_error.txt ---
+    Mac OS X            	   2  °     â                                    ATTRÿÿÞ  â                             com.apple.provenance  B;úú;8¢                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            This resource fork intentionally left blank                                                                                                                                                                                                                            ÿÿ
+--- From file: cluster_7_unexpected_causing_exception.txt ---
+Unexpected Exception:
+Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running
+Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running
+
+--- From file: ._cluster_7_unexpected_causing_exception.txt ---
+    Mac OS X            	   2  °     â                                    ATTRÿÿÞ  â                             com.apple.provenance  B;úú;8¢                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            This resource fork intentionally left blank                                                                                                                                                                                                                            ÿÿ

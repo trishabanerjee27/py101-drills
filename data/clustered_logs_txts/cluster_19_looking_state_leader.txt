@@ -1,0 +1,57 @@
+Server environment:user.dir=/
+LOOKING
+My election bind port: 0.0.0.0/0.0.0.0:3888
+Have smaller server identifier, so dropping the connection: (2, 1)
+FOLLOWING
+LOOKING
+New election. My id =  1, proposed zxid=0x700000000
+Server environment:host.name=mesos-master-1
+FOLLOWING - LEADER ELECTION TOOK - 49
+Notification: 3 (n.leader), 0x700000197 (n.zxid), 0x1 (n.round), LEADING (n.state), 3 (n.sid), 0x7 (n.peerEPoch), LOOKING (my state)
+FOLLOWING - LEADER ELECTION TOOK - 238
+autopurge.snapRetainCount set to 3
+Server environment:java.vendor=Oracle Corporation
+Revalidating client: 0x14f05578bd80018
+Server environment:zookeeper.version=3.4.5--1, built on 06/10/2013 17:26 GMT
+Server environment:user.name=zookeeper
+Revalidating client: 0x14f05578bd80013
+Server environment:os.name=Linux
+Notification: 2 (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LOOKING (my state)
+Notification: 3 (n.leader), 0xb0000007b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0xb (n.peerEPoch), FOLLOWING (my state)
+tickTime set to 2000
+Server environment:java.vendor=Oracle Corporation
+Got user-level KeeperException when processing sessionid:0x34ed93485090001 type:create cxid:0x55b8bb0f zxid:0x100000010 txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper
+Notification: 3 (n.leader), 0x10000006b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0x1 (n.peerEPoch), LEADING (my state)
+Starting quorum peer
+Snapshotting: 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd
+autopurge.purgeInterval set to 0
+Snapshotting: 0x50000062e to /var/lib/zookeeper/version-2/snapshot.50000062e
+Follower sid: 3 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4
+Revalidating client: 0x24f0557806a001c
+autopurge.purgeInterval set to 0
+maxSessionTimeout set to -1
+FOLLOWING
+Server environment:java.class.path=/etc/zookeeper/conf:/usr/share/java/jline.jar:/usr/share/java/log4j-1.2.jar:/usr/share/java/xercesImpl.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/netty.jar:/usr/share/java/slf4j-api.jar:/usr/share/java/slf4j-log4j12.jar:/usr/share/java/zookeeper.jar
+Have quorum of supporters; starting up and setting last processed zxid: 0xb00000000
+Notification: 2 (n.leader), 0xa0000009a (n.zxid), 0x1 (n.round), FOLLOWING (n.state), 1 (n.sid), 0xa (n.peerEPoch), LEADING (my state)
+shutdown of request processor complete
+First is 0x0
+Notification: 1 (n.leader), 0xb0000007b (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LEADING (my state)
+Notification: 1 (n.leader), 0xb0000007b (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LEADING (my state)
+autopurge.purgeInterval set to 0
+Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084
+Sending DIFF
+LOOKING
+Getting a snapshot from leader
+Notification: 3 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 3 (n.sid), 0x0 (n.peerEPoch), LOOKING (my state)
+Notification: 3 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 3 (n.sid), 0x0 (n.peerEPoch), LOOKING (my state)
+Notification: 3 (n.leader), 0x10000006b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0x1 (n.peerEPoch), LOOKING (my state)
+LOOKING
+Notification: 3 (n.leader), 0x100001564 (n.zxid), 0x3 (n.round), FOLLOWING (n.state), 3 (n.sid), 0x2 (n.peerEPoch), FOLLOWING (my state)
+minSessionTimeout set to -1
+Server environment:os.name=Linux
+Server environment:user.name=zookeeper
+minSessionTimeout set to -1
+Server environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre
+Getting a snapshot from leader
+Notification: 3 (n.leader), 0x700000197 (n.zxid), 0x1 (n.round), LOOKING (n.state), 3 (n.sid), 0x7 (n.peerEPoch), LOOKING (my state)

@@ -1,0 +1,16 @@
+Unexpected Exception:
+Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Unexpected exception causing shutdown while sock still open
+Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running
+Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running

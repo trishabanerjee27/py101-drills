@@ -1,0 +1,50 @@
+Total rows: 2000
+Total columns: 10
+
+Column-wise non-null value counts:
+LineId: 2000
+Date: 2000
+Time: 2000
+Level: 2000
+Node: 2000
+Component: 2000
+Id: 2000
+Content: 2000
+EventId: 2000
+EventTemplate: 2000
+
+Unique value counts in each column:
+LineId: 2000
+Date: 10
+Time: 1943
+Level: 3
+Node: 22
+Component: 70
+Id: 43
+Content: 693
+EventId: 50
+EventTemplate: 50
+
+Sample unique values per column:
+LineId: [1 2 3 4 5]
+Date: ['29/07/15' '30/07/15' '31/07/15' '07/08/15' '10/08/15']
+Time: ['17:41:44,747' '19:04:12,394' '19:04:29,071' '19:04:29,079'
+ '19:13:17,524']
+Level: ['INFO' 'WARN' 'ERROR']
+Node: ['QuorumPeer[myid=1]/0' '/10.10.34.11' 'SendWorker' 'RecvWorker'
+ 'NIOServerCxn.Factory']
+Component: ['0:0:0:0:0:0:0:2181:FastLeaderElection' '3888:QuorumCnxManager$Listener'
+ '188978561024:QuorumCnxManager$SendWorker'
+ '188978561024:QuorumCnxManager$RecvWorker'
+ '0.0.0.0/0.0.0.0:2181:NIOServerCnxn']
+Id: [774 493 688 679 762]
+Content: ['Notification time out: 3200'
+ 'Received connection request /10.10.34.11:45307'
+ 'Send worker leaving thread'
+ 'Interrupted while waiting for message on queue'
+ 'Connection broken for id 188978561024, my id = 1, error =']
+EventId: ['E31' 'E40' 'E42' 'E24' 'E11']
+EventTemplate: ['Notification time out: <*>' 'Received connection request /<*>:<*>'
+ 'Send worker leaving thread'
+ 'Interrupted while waiting for message on queue'
+ 'Connection broken for id <*>, my id = <*>, error =']
